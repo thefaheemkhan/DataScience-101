@@ -3,7 +3,7 @@
 1) Mathematics
 2) Probability
 3) Statistics
-4) Programming
+4) Programming - Python
 5) Machine Learning
 6) Deep Learning
 7) Feature Engineering
