@@ -2,4 +2,3 @@
 
 1. Mathematics for Data Science & Machine Learning
 2. Python Basics
-3. 
