@@ -1,4 +1,4 @@
-# Python Data Science - 101
+# DataScience - 101
 
 1) Mathematics
 2) Probability
