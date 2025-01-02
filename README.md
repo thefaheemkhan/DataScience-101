@@ -1,4 +1,4 @@
-# DataScience - 101
+# DataScience - DS101
 
 1) Mathematics
 2) Probability
