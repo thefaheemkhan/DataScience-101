@@ -5,7 +5,7 @@
 3. Mathematics - Statistics, Probability, Linear Algebra, Calculus
 4. Machine Learning
 5. Deep Learning
-6. Natural Language Processing
+6. Natural Language Processing (NLP)
 7. Computer Vision
 8. Reinforcement Learning
 9. MLOps
