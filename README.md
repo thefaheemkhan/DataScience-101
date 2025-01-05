@@ -4,7 +4,7 @@
 2. Python Libraries - Numpy, Pandas, Matplotlib
 3. Mathematics - Statistics, Probability, Linear Algebra, Calculus
 4. Machine Learning (ML)
-5. Deep Learning
+5. Deep Learning (DL)
 6. Natural Language Processing (NLP)
 7. Computer Vision (CV)
 8. Reinforcement Learning
