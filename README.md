@@ -1,7 +1,7 @@
 # DataScience - DS101
 
 1. Python Basic to Advance
-2. Python Libraries - Numpy, Pandas, Matplotlib
+2. Python Libraries - Numpy, Pandas, Matplotlib, Streamlit
 3. Mathematics - Statistics, Probability, Linear Algebra, Calculus
 4. Machine Learning (ML)
 5. Deep Learning (DL)
