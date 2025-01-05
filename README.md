@@ -6,7 +6,7 @@
 4. Machine Learning
 5. Deep Learning
 6. Natural Language Processing (NLP)
-7. Computer Vision
+7. Computer Vision (CV)
 8. Reinforcement Learning
 9. MLOps
 
