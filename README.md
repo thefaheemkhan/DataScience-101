@@ -8,5 +8,6 @@
 6. Natural Language Processing (NLP)
 7. Computer Vision (CV)
 8. Reinforcement Learning
-9. MLOps
+9. MLOps and Cloud
+    
 
